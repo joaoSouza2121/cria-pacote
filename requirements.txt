@@ -1,0 +1,2 @@
+setuptools
+python 3.8 +=
